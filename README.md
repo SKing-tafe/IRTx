@@ -1,3 +1,3 @@
-# IRTx
-Incident Response Team eXercise project
-This repository is being used to demonstrate how to use GitHub as a collboration tool.
+# IRx
+Incident Response eXercise project
+This repository is being used to store documents associated with the project
